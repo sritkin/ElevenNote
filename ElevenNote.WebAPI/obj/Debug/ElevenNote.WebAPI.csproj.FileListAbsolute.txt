@@ -121,3 +121,4 @@ C:\Users\13179\source\repos\ElevenNote\ElevenNote.WebAPI\bin\Microsoft.CodeDom.P
 C:\Users\13179\source\repos\ElevenNote\ElevenNote.WebAPI\obj\Debug\ElevenNote.WebAPI.csproj.CopyComplete
 C:\Users\13179\source\repos\ElevenNote\ElevenNote.WebAPI\obj\Debug\ElevenNote.WebAPI.dll
 C:\Users\13179\source\repos\ElevenNote\ElevenNote.WebAPI\obj\Debug\ElevenNote.WebAPI.pdb
+C:\Users\13179\source\repos\ElevenNote\ElevenNote.WebAPI\bin\ElevenNote.Services.dll.config
