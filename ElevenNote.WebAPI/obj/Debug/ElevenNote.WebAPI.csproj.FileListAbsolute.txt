@@ -122,3 +122,5 @@ C:\Users\13179\source\repos\ElevenNote\ElevenNote.WebAPI\obj\Debug\ElevenNote.We
 C:\Users\13179\source\repos\ElevenNote\ElevenNote.WebAPI\obj\Debug\ElevenNote.WebAPI.dll
 C:\Users\13179\source\repos\ElevenNote\ElevenNote.WebAPI\obj\Debug\ElevenNote.WebAPI.pdb
 C:\Users\13179\source\repos\ElevenNote\ElevenNote.WebAPI\bin\ElevenNote.Services.dll.config
+C:\Users\13179\source\repos\ElevenNote\ElevenNote.WebAPI\bin\Swashbuckle.Core.dll
+C:\Users\13179\source\repos\ElevenNote\ElevenNote.WebAPI\bin\WebActivatorEx.dll
